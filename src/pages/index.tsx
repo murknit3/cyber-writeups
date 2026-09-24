@@ -11,12 +11,12 @@ const cards = [
   {
     title: 'DFIR',
     text: 'Evidence-driven investigations across endpoints, network traffic and Windows event logs.',
-    to: '/writeups/category/dfir',
+    to: '/writeups/dfir',
   },
   {
     title: 'Offensive Security',
     text: 'Web, Active Directory and lab write-ups focused on methodology rather than flags.',
-    to: '/writeups/category/offensive-security',
+    to: '/writeups/offensive-security',
   },
 ];
 
